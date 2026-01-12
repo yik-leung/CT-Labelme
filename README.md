@@ -65,5 +65,6 @@ If you find CT-LabelMe useful in your work, please consider citing:
   title = {A Simple Lightweight CT Annotation Tool},
   howpublished = {\url{https://github.com/yik-leung/CT-Labelme}}
 }
+```
 
 We will include proper acknowledgment in future CT-related publications where applicable.
