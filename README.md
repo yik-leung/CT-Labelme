@@ -44,14 +44,14 @@ python main.py
   <video src="https://github.com/user-attachments/assets/fd47db48-106e-4081-a7a3-1d9437900e9f" alt="CT-LabelMe Demo" width="800"></video>
 </p>
 
-In the demo, open your CT file (NRRD / DICOM / NIfTI). Navigate to the area you want to annotate using the `A` / `D` keys or by dragging the slice slider. Press `B` to enter brush mode, then select your desired label from the left sidebar and brush over the region on two spaced-out slices. Next, press `J` to switch back to mouse mode, and click "Fill in between slices" buttons on the left panel to automatically fill and interpolate the unlabeled slices in between.
+In the demo, open your CT file (NRRD / DICOM / NIfTI). Navigate to the area you want to annotate using the `A` / `D` keys or by dragging the slice slider. Press `B` to enter brush mode, then select your desired label from the left sidebar. Hold the left mouse button to brush over the region, and hold the right mouse button to erase labels as needed. Do this on two spaced-out slices. Next, press `J` to switch back to mouse mode, then click the "Fill in between slices" `Preview` button and `Apply` button on the left panel to automatically fill and interpolate the unlabeled slices in between.
 
 For more hotkeys, features, and detailed instructions, please click the **Help** button in the menu.
 
 ## 🙏 Acknowledgments
 
-- Core annotation logic inspired by **[labelme](https://github.com/wkentaro/labelme)**.
-- Core voxel handling from **[Med-labelme](https://github.com/MeteorsHub/MedLabelMe)**.
+- Core annotation logic inspired by [labelme](https://github.com/wkentaro/labelme).
+- Core GUI and voxel handling from [Med-labelme](https://github.com/MeteorsHub/MedLabelMe).
 
 ## 📄 Citation
 
