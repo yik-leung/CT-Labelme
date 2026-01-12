@@ -67,4 +67,4 @@ If you find CT-LabelMe useful in your work, please consider citing:
 }
 ```
 
-We will include proper acknowledgment in future CT-related publications where applicable.
+We will include proper citation in future CT-related publications where applicable.
