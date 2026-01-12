@@ -42,10 +42,12 @@ python main.py
 ## 📼 Quick Start & Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd47db48-106e-4081-a7a3-1d9437900e9f" alt="CT-LabelMe Demo" width="800"/>
+  <video src="https://github.com/user-attachments/assets/fd47db48-106e-4081-a7a3-1d9437900e9f" alt="CT-LabelMe Demo" width="800"></video>
 </p>
 
-About the hotkeys, please click the **Help** button in the menu
+In the demo, open your CT file (NRRD / DICOM / NIfTI). Navigate to the area you want to annotate using the `A` / `D` keys or by dragging the slice slider. Press `B` to enter brush mode, then select your desired label from the left sidebar and brush over the region on two spaced-out slices. Next, press `J` to switch back to mouse mode, and click "Fill in between slices" buttons on the left panel to automatically fill and interpolate the unlabeled slices in between.
+
+For more hotkeys, features, and detailed instructions, please click the **Help** button in the menu.
 
 ## 🙏 Acknowledgments
 
