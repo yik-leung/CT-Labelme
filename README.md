@@ -1,4 +1,4 @@
-# CT-LabelMe 🩻
+# CT-Labelme 🎮
 
 **An extremely simple and doctor-friendly CT annotation tool**  
 Designed for fast correction of AI-generated segmentations
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## ⌨️ Quick Start & Hotkeys
+## 📼 Quick Start & Demo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd47db48-106e-4081-a7a3-1d9437900e9f" alt="CT-LabelMe Demo" width="800"/>
