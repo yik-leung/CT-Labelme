@@ -21,7 +21,7 @@ Inspired by the pattern above, I decided to create a very lightweight, easy-to-u
 - ...
 - More features and detailed instructions: click the **Help** button in the menu
 
-Future plans: Support interactive polygon annotation (vertices saved separately in JSON file)
+Upcoming release version (currently available internally): Support interactive polygon annotation (vertices saved separately in JSON file)
 
 ## 🚀 Installation
 
@@ -65,3 +65,5 @@ If you find CT-LabelMe useful in your work, please consider citing:
   title = {A Simple Lightweight CT Annotation Tool},
   howpublished = {\url{https://github.com/yik-leung/CT-Labelme}}
 }
+
+We will include proper acknowledgment in future CT-related publications where applicable.
