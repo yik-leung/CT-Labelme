@@ -1,16 +1,15 @@
 # CT-Labelme 🎮
 
-**An extremely simple and doctor-friendly CT annotation tool**  
-Designed for fast correction of AI-generated segmentations
+An easy-to-use and doctor-friendly CT annotation tool.
 
 [![Python](https://img.shields.io/badge/python-3.11+-blue)](https://www.python.org/)
 
 
 ## 🎯 Motivation
 
-From my own experience collaborating closely with many radiologists and clinicians over the years, I observed that about 95 % of the doctors I worked with had no idea how to use a GPU to run AI, and had no interest in investing time to learn medical image annotation software such as ITK-SNAP or 3D Slicer, let alone exploring and installing advanced interactive AI plugins like nnInteractive inside those tools.
+From my own experience collaborating closely with many radiologists and clinicians over the years, I observed that about 95 % of the doctors I worked with had no idea how to use a GPU to run AI, and had no interest in investing time to learn medical annotation software such as ITK-SNAP or 3D Slicer, let alone exploring and installing advanced interactive AI plugins like nnInteractive inside those tools. Besides, in my own projects, the typical workflow is AI generating coarse initial labels first, with clinicians mainly performing quick corrections afterward. So there's basically no need to pack the software with complex functions or AI that only leave doctors more confused and reluctant to touch it.
 
-Besides, in my actual projects, the typical workflow is AI generating coarse initial labels first, with clinicians mainly performing quick corrections afterward. Inspired by this pattern, I decided to create a very lightweight, easy-to-use annotation tool, keeping things as simple and frictionless as possible.
+Inspired by the pattern above, I decided to create a very lightweight, easy-to-use annotation tool, keeping things as simple and frictionless as possible.
 
 ## ✨ Features
 
